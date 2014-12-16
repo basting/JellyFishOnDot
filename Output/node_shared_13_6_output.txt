@@ -1,0 +1,31 @@
+------------------------------------------------------------
+Client connecting to h6, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:   110 KByte (default)
+------------------------------------------------------------
+[  3] local 10.254.0.13 port 47778 connected with 10.254.0.6 port 5001
+[  3]  0.0- 1.0 sec  42.7 MBytes    358 Mbits/sec
+[  3]  1.0- 2.0 sec  36.9 MBytes    310 Mbits/sec
+[  3]  2.0- 3.0 sec  39.9 MBytes    335 Mbits/sec
+[  3]  3.0- 4.0 sec  38.8 MBytes    325 Mbits/sec
+[  3]  4.0- 5.0 sec  38.4 MBytes    322 Mbits/sec
+[  3]  5.0- 6.0 sec  39.6 MBytes    332 Mbits/sec
+[  3]  6.0- 7.0 sec  39.2 MBytes    329 Mbits/sec
+[  3]  7.0- 8.0 sec  36.9 MBytes    309 Mbits/sec
+[  3]  8.0- 9.0 sec  38.2 MBytes    321 Mbits/sec
+[  3]  9.0-10.0 sec  37.9 MBytes    318 Mbits/sec
+[  3] 10.0-11.0 sec  38.6 MBytes    324 Mbits/sec
+[  3] 11.0-12.0 sec  38.1 MBytes    320 Mbits/sec
+[  3] 12.0-13.0 sec  41.1 MBytes    345 Mbits/sec
+[  3] 13.0-14.0 sec  40.3 MBytes    338 Mbits/sec
+[  3] 14.0-15.0 sec  39.7 MBytes    333 Mbits/sec
+[  3] 15.0-16.0 sec  39.5 MBytes    331 Mbits/sec
+[  3] 16.0-17.0 sec  39.9 MBytes    334 Mbits/sec
+[  3] 17.0-18.0 sec  36.7 MBytes    308 Mbits/sec
+[  3] 18.0-19.0 sec  38.0 MBytes    319 Mbits/sec
+[  3] 19.0-20.0 sec  36.5 MBytes    306 Mbits/sec
+[  3]  0.0-20.0 sec    777 MBytes    326 Mbits/sec
+[  3] Sent 554092 datagrams
+[  3] Server Report:
+[  3]  0.0-20.0 sec    456 MBytes    191 Mbits/sec  0.042 ms 229150/554091 (41%)
+[  3]  0.0-20.0 sec  88 datagrams received out-of-order
