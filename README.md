@@ -1,4 +1,4 @@
-JellyFishOnDot
+JellyFish On Dot (Distributed OpenFlow Testbed)
 ==============
 
 Source code and other files used for JellyFish experiments conducted on DOT
